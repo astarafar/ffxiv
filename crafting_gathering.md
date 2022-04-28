@@ -1,24 +1,3 @@
-- [Introduction](#introduction)
-- [Leveling Jobs](#leveling-jobs)
-- [Unlocking Collectable Appraisers](#unlocking-collectable-appraisers)
-  * [Collectable Appraisers](#collectable-appraisers)
-  * [Scrip Exchanges](#scrip-exchanges)
-- [Gear Sets](#gear-sets)
-  * [Level 50](#level-50)
-  * [Level 58](#level-58)
-  * [Level 60](#level-60)
-    + [Recommended](#recommended)
-    + [Alternate](#alternate)
-  * [Level 70](#level-70)
-  * [Level 80](#level-80)
-  * [Level 90](#level-90)
-    + [Normal Set](#normal-set)
-    + [High-End Set](#high-end-set)
-- [Materia Melding](#materia-melding)
-  * [BiS Materia Meld (Level 90 High-End Set)](#bis-materia-meld--level-90-high-end-set-)
-
----
-
 # Final Fantasy XIV - Crafting and Gathering Information
 
 ## Introduction

@@ -327,7 +327,598 @@ If you WANT to do this, the current BiS materia meld is provided below. If you'r
 
 ## Collectables
 
-TO DO: I already have these made, I just need to translate them into Markdown.
+These rotations assume that:
+
+- You are using the gear sets listed on the previous tabs;
+- Your stats meet or exceed those listed for each craft; 
+- You are crafting items with the exact difficulty, quality, and durability parameters listed;
+- You have all abilities available at the level indicated, including those gained by completing job quests;
+- You don't get screwed by having poor condition during a critical touch action; 
+- You do not have a specialization in your crafting job. If you do, these rotations will all work, but there may be shorter rotations available to you due to the stat bonus granted by specialization.
+
+These rotations do NOT assume that:
+
+- You have any kind of crafting stat buffs from food, drink, or FC buffs;
+- You are using high-quality materials for your crafts. These rotations are all based on zero initial quality.
+
+I made these so that you don't need to buy (except for those level 45-49 accessories) or craft any gear or food or meld any materia. Please make sure that I didn't screw any of these up before you use them.
+
+If there's a blank line in the middle of the macro, that means that you need to split it into two macros. Macros in FFXIV are limited to 15 lines.
+
+### Level 50
+
+Craftsmanship: 357
+Control: 367
+CP: 294
+Difficulty: 180
+Quality: 2000
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Standard Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+```
+
+### Level 52
+
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 357<br />Control: 367<br />CP: 294|Difficulty: 260<br />Quality: 2140<br />Durability: 80|100%|
+
+Macro:
+```
+/ac "Waste Not II" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+```
+
+### Level 54
+
+Craftsmanship: 357
+Control: 367
+CP: 294
+Difficulty: 340
+Quality: 2280
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```\/ac "Muscle Memory" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Waste Not" <wait.2>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Great Strides" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+```
+
+### Level 56
+
+Craftsmanship: 357
+Control: 367
+CP: 294
+Difficulty: 420
+Quality: 2420
+Durability: 70
+Collectability: 215 / 242 (Tier 2)
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Waste Not II" <wait.2>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Great Strides" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+```
+
+### Level 58
+
+Craftsmanship: 417
+Control: 477
+CP: 283
+Difficulty: 500
+Quality: 2560
+Durability: 70
+Collectability: 213 / 242 (Tier 2)
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Waste Not II" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Great Strides" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+```
+
+### Level 60
+
+Craftsmanship: 943
+Control: 843
+CP: 381
+Difficulty: 580
+Quality: 2700
+Durability: 70
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Waste Not" <wait.2>
+/ac "Innovation" <wait.2>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+```
+
+### Level 62
+
+Craftsmanship: 943
+Control: 843
+CP: 381
+Difficulty: 680
+Quality: 2880
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Waste Not II" <wait.2>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
+
+### Level 64
+
+Craftsmanship: 943
+Control: 843
+CP: 381
+Difficulty: 780
+Quality: 3060
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Waste Not" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Great Strides" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
+
+### Level 66
+
+Craftsmanship: 943
+Control: 843
+CP: 381
+Difficulty: 880
+Quality: 3240
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Waste Not II" <wait.2>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
+
+### Level 68
+
+Craftsmanship: 943
+Control: 843
+CP: 381
+Difficulty: 980
+Quality: 3420
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Manipulation" <wait.2>
+/ac "Careful Synthesis" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+
+/ac "Careful Synthesis" <wait.3>
+```
+
+### Level 70
+
+Craftsmanship: 1645
+Control: 1532
+CP: 400
+Difficulty: 1080
+Quality: 3600
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
+
+### Level 72
+
+Craftsmanship: 1645
+Control: 1532
+CP: 400
+Difficulty: 1220
+Quality: 3800
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Groundwork" <wait.3>
+```
+
+### Level 74
+
+Craftsmanship: 1645
+Control: 1532
+CP: 400
+Difficulty: 1360
+Quality: 4000
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Waste Not" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Great Strides" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Groundwork" <wait.3>
+/ac "Groundwork" <wait.3>
+```
+
+### Level 76
+
+Craftsmanship: 1645
+Control: 1532
+CP: 400
+Difficulty: 1500
+Quality: 4200
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Master's Mend" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Groundwork" <wait.3>
+```
+
+### Level 78
+
+Craftsmanship: 1645
+Control: 1532
+CP: 400
+Difficulty: 1640
+Quality: 4400
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Observe" <wait.3>
+/ac "Focused Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Master's Mend" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Great Strides" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
+
+### Level 80
+
+Craftsmanship: 2606
+Control: 2457
+CP: 507
+Difficulty: 1780
+Quality: 4600
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Waste Not II" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Groundwork" <wait.3>
+```
+
+### Level 81
+
+Craftsmanship: 2606
+Control: 2457
+CP: 507
+Difficulty: 2000
+Quality: 5200
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Waste Not II" <wait.2>
+/ac "Innovation" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
+
+### Level 83
+
+Craftsmanship: 2606
+Control: 2457
+CP: 507
+Difficulty: 2600
+Quality: 6200
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Master's Mend" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Groundwork" <wait.3>
+```
+
+### Level 85
+
+Craftsmanship: 2606
+Control: 2457
+CP: 507
+Difficulty: 3000
+Quality: 6700
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+
+/ac "Byregot's Blessing" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
+
+### Level 87
+
+Craftsmanship: 2606
+Control: 2457
+CP: 507
+Difficulty: 3200
+Quality: 6900
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Great Strides" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+```
+
+### Level 89
+
+Craftsmanship: 2606
+Control: 2457
+CP: 507
+Difficulty: 3400
+Quality: 7100
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Veneration" <wait.2>
+/ac "Groundwork" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Advanced Touch" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Advanced Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+
+/ac "Advanced Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Groundwork" <wait.3>
+```
+
+### Level 90
+
+Craftsmanship: 3291
+Control: 3037
+CP: 484
+Difficulty: 3500
+Quality: 7200
+Durability: 80
+Collectability: Maximum
+Rotation Macro:
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Groundwork" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Advanced Touch" <wait.3>
+/ac "Waste Not II" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Advanced Touch" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+
+/ac "Advanced Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Groundwork" <wait.3>
+```
 
 ## Firmament Collectables
 

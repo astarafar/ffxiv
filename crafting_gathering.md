@@ -349,7 +349,7 @@ If there's a blank line in the middle of the macro, that means that you need to 
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 357<br />Control: 367<br />CP: 294|Difficulty: 180<br />Quality: 2000<br />Durability: 80||Maximum
+|Craftsmanship: 357<br />Control: 367<br />CP: 294|Difficulty: 180<br />Quality: 2000<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -392,7 +392,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 357<br />Control: 367<br />CP: 294|Difficulty: 340<br />Quality: 2280<br />Durability: 80||Maximum
+|Craftsmanship: 357<br />Control: 367<br />CP: 294|Difficulty: 340<br />Quality: 2280<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -416,7 +416,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 357<br />Control: 367<br />CP: 294|Difficulty: 420<br />Quality: 2420<br />Durability: 70||215 / 242 (Tier 2)
+|Craftsmanship: 357<br />Control: 367<br />CP: 294|Difficulty: 420<br />Quality: 2420<br />Durability: 70|215 / 242 (Tier 2)|
 
 Macro:
 ```
@@ -440,7 +440,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 417<br />Control: 477<br />CP: 283|Difficulty: 500<br />Quality: 2560<br />Durability: 70||213 / 242 (Tier 2)
+|Craftsmanship: 417<br />Control: 477<br />CP: 283|Difficulty: 500<br />Quality: 2560<br />Durability: 70|213 / 242 (Tier 2)|
 
 Macro:
 ```
@@ -464,7 +464,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 580<br />Quality: 2700<br />Durability: 70||Maximum
+|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 580<br />Quality: 2700<br />Durability: 70|100%|
 
 Macro:
 ```
@@ -485,7 +485,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 680<br />Quality: 2880<br />Durability: 80||Maximum
+|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 680<br />Quality: 2880<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -508,7 +508,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 780<br />Quality: 3060<br />Durability: 80||Maximum
+|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 780<br />Quality: 3060<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -531,7 +531,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 880<br />Quality: 3240<br />Durability: 80||Maximum
+|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 880<br />Quality: 3240<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -554,7 +554,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 980<br />Quality: 3420<br />Durability: 80||Maximum
+|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 980<br />Quality: 3420<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -581,7 +581,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1080<br />Quality: 3600<br />Durability: 80||Maximum
+|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1080<br />Quality: 3600<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -603,7 +603,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1220<br />Quality: 3800<br />Durability: 80||Maximum
+|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1220<br />Quality: 3800<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -623,7 +623,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1360<br />Quality: 4000<br />Durability: 80||Maximum
+|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1360<br />Quality: 4000<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -643,7 +643,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1500<br />Quality: 4200<br />Durability: 80||Maximum
+|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1500<br />Quality: 4200<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -665,7 +665,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1640<br />Quality: 4400<br />Durability: 80||Maximum
+|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1640<br />Quality: 4400<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -688,7 +688,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 1780<br />Quality: 4600<br />Durability: 80||Maximum
+|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 1780<br />Quality: 4600<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -707,7 +707,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 2000<br />Quality: 5200<br />Durability: 80||Maximum
+|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 2000<br />Quality: 5200<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -728,7 +728,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 2600<br />Quality: 6200<br />Durability: 80||Maximum
+|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 2600<br />Quality: 6200<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -751,7 +751,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 3000<br />Quality: 6700<br />Durability: 80||Maximum
+|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 3000<br />Quality: 6700<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -779,7 +779,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 3200<br />Quality: 6900<br />Durability: 80||Maximum
+|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 3200<br />Quality: 6900<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -803,7 +803,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 3400<br />Quality: 7100<br />Durability: 80||Maximum
+|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 3400<br />Quality: 7100<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -833,7 +833,7 @@ Macro:
 
 |Stats|Recipe|Collectability|
 |-|-|-|
-|Craftsmanship: 3291<br />Control: 3037<br />CP: 484|Difficulty: 3500<br />Quality: 7200<br />Durability: 80||Maximum
+|Craftsmanship: 3291<br />Control: 3037<br />CP: 484|Difficulty: 3500<br />Quality: 7200<br />Durability: 80|100%|
 
 Macro:
 ```
@@ -867,5 +867,4 @@ TO DO
 There's a lot I'm still working on adding to this page. In no particular order:
 
 - The best (by some approximation) levequests to get you from level 1 to level 50 in a given crafting job.
-- Import the collectable crafting rotations that I have in the original document that I wrote.
 - A lot of other stuff.

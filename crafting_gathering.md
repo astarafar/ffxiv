@@ -24,5 +24,3 @@
     + [Level 90](#level-90-1)
   * [Firmament Collectables](#firmament-collectables)
 - [To Do](#to-do)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>

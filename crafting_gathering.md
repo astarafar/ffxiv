@@ -50,11 +50,13 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 
 ## Level 50
 
-#### Stats
+- **Craftsmanship**: 357
+- **Control**: 367
+- **CP**: 294
 
-* Craftsmanship: 357
-* Control: 367
-* CP: 294
+The Red Coral/Electrum accessories can be purchased from Seghuie in Ishgard, located in The Pillars, X: 7.4, Y: 10.3.
+
+Crafting harder things with this gear (collectables at level 56 and 58) gets a bit rough. If you augment with food (Tsai tou Vounou HQ), you can maximize collectability at that level, if the cost of the food is worth it to you. I didn't provide a rotation for this.
 
 |Job Level|Set|Item Level|Item|Source|
 |-|-|-|-|-|
@@ -71,18 +73,15 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 |47||47|Electrum Ring of Crafting|3840 gil|
 |47||47|Electrum Ring of Crafting|3840 gil|
 
-#### Notes
-
-- The Electrum accessories can be purchased from Seghuie in Ishgard, located in The Pillars, X: 7.4, Y: 10.3.
-- Crafting harder things with this gear (collectables at level 56 and 58) gets a bit rough. If you augment with food (Tsai tou Vounou HQ), you can maximize collectability at that level, if the cost of the food is worth it to you. I didn't provide a rotation for this.
-
 ## Level 58
 
-#### Stats
+- **Craftsmanship**: 417
+- **Control**: 477
+- **CP**: 283
 
-- Craftsmanship: 417
-- Control: 477
-- CP: 283
+I've listed the accessories here only for the sake of completeness. I recommend using the Electrum accessories from the level 50 set above until you hit level 60.
+
+Continue using your primary and secondary tools from the level 50 set.
 
 |Level|Set|Item Level|Item|Source|
 |-|-|-|-|-|
@@ -97,20 +96,16 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Hallowed Chestnut Ring|Crafted|
 ||||Hallowed Chestnut Ring|Crafted|
 
-#### Notes
-
-- I've listed the accessories here only for the sake of completeness. I recommend using the Electrum accessories from the level 50 set above until you hit level 60.
-- Continue using your primary and secondary tools from the level 50 set.
-
 ## Level 60
 
 ### Recommended
 
-#### Stats
+- **Craftsmanship**: 943
+- **Control**: 843
+- **CP**: 381
 
-- Craftsmanship: 943
-- Control: 843
-- CP: 381
+The Keep's Sets are job-specific; you will require a new armor set for each crafting job you're leveling.
+The Handmaster's Set (accessories) are not job-specific, and can be used across all crafting jobs.
 
 |Job Level|Set|Item Level|Item|Source|
 |-|-|-|-|-|
@@ -127,18 +122,19 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Augmented Handmaster's Ring|50 White Crafter's Scrips|
 ||||Augmented Handmaster's Ring|50 White Crafter's Scrips|
 
-#### Notes
-
-- The Keep's Sets are job-specific; you will require a new armor set for each crafting job you're leveling.
-- The Handmaster's Set (accessories) are not job-specific, and can be used across all crafting jobs.
-
 ### Alternate
 
-#### Stats
+- **Craftsmanship**: 900
+- **Control**: 813
+- **CP**: 378
 
-- Craftsmanship: 900
-- Control: 813
-- CP: 378
+This set (armor and accessories) is usable by all crafting jobs, but it's a crafted set and therefore far more expensive than the Keep's/Handmaster's Sets, and for worse stats.
+
+**I do not recommend going this route due to the cost.**
+
+No matter which armor set you go with, there is absolutely no reason to ever use the accessories from this set. For a universal set at level 60, get the Ironworks Armor and the Handmaster's Accessories.
+
+No matter which route you go at this level, use the primary and secondary tools from the Keep's set.
 
 |Job Level|Set|Item Level|Item|Source|
 |-|-|-|-|-|
@@ -153,26 +149,20 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Ironworks Ring of Crafting|Crafted|
 ||||Ironworks Ring of Crafting|Crafted|
 
-#### Notes
-
-- This set (armor and accessories) is usable by all crafting jobs, but it's a crafted set and therefore far more expensive than the Keep's/Handmaster's Sets, and for worse stats. I do not recommend going this route due to the cost.
-- No matter which armor set you go with, there is absolutely no reason to ever use the accessories from this set. For a universal set at level 60, get the Ironworks Armor and the Handmaster's Accessories.
-- No matter which route you go at this level, use the primary and secondary tools from the Keep's set.
-
 ## Level 70
 
-#### Stats
+- **Craftsmanship**: 1645
+- **Control**: 1532
+- **CP**: 400
 
-- Craftsmanship: 1645
-- Control: 1532
-- CP: 400
+Aside from the tools, the Handking's armor and accessories are usable by all crafting jobs, so you'll only need to buy the set once.
 
 |Job Level|Set|Item Level|Item|Source|
 |-|-|-|-|-|
 |70|Handking's Set|350|Job-Specific Primary Tool|225 White Crafter's Scrips|
 ||King's Set|330|Job-Specific Secondary Tool|225 White Crafter's Scrips|
 ||Handking's Set|350|Handking's Turban|75 White Crafter's Scrips|
-|||350|Handking's Doublet|225 White Crafter's Scrips|
+||||Handking's Doublet|225 White Crafter's Scrips|
 ||||Handking's Gloves|75 White Crafter's Scrips|
 ||||Handking's Bottoms|75 White Crafter's Scrips|
 ||||Handking's Shoes|75 White Crafter's Scrips|
@@ -182,17 +172,13 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Handking's Ring|50 White Crafter's Scrips|
 ||||Handking's Ring|50 White Crafter's Scrips|
 
-#### Notes
-
-- Aside from the tools, the Handking's armor and accessories are usable by all crafting jobs, so you'll only need to buy the set once.
-
 ## Level 80
 
-#### Stats
+- **Craftsmanship**: 2606
+- **Control**: 2457
+- **CP**: 507
 
-- Craftsmanship: 2606
-- Control: 2457
-- CP: 507
+Aside from the tools, the Handsaint's armor and accessories are usable by all crafting jobs, so you'll only need to buy the set once.
 
 |Job Level|Set|Item Level|Item|Source|
 |-|-|-|-|-|
@@ -209,19 +195,15 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Handsaint's Ring|75 White Crafter's Scrips|
 ||||Handsaint's Ring|75 White Crafter's Scrips|
 
-#### Notes
-
-- Aside from the tools, the Handsaint's armor and accessories are usable by all crafting jobs, so you'll only need to buy the set once.
-
 ## Level 90
 
 ### Normal Set
 
-#### Stats
+- **Craftsmanship**: 3291
+- **Control**: 3037
+- **CP**: 484
 
-- Craftsmanship: 3291
-- Control: 3037
-- CP: 484
+This is a very solid option that will let you craft most things with excellent results. It may not meet the **craftsmanship** and/or **control** requirements for some of the top-tier items, though you may be able to overcome this by melding/overmelding the Pactmaker's and AR-Caean pieces.
 
 |Job Level|Set|Item Level|Item|Source|
 |-|-|-|-|-|
@@ -238,19 +220,26 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Integral Ring of Crafting|Crafted|
 ||||Integral Ring of Crafting|Crafted|
 
-#### Notes
-
-- This is a very solid option that will let you craft most things with excellent results. It may not meet the craftsmanship and/or control requirements for some of the top-tier items, though you may be able to overcome this by melding/overmelding the Pactmaker's and AR-Caean pieces.
 
 ### High-End Set
 
-#### Stats
+**Base Stats**:
 
-||Without BiS Meld|With BiS Meld|
-|-|-|-|
-|**Craftsmanship**|3457|3664|
-|**Control**|3184|3784|
-|**CP**|486|573|
+- **Craftsmanship**: 3457
+- **Control**: 3184
+- **CP**: 486
+
+**Stats with BiS Meld**:
+
+- **Craftsmanship**: 3664
+- **Control**: 3784
+- **CP**: 573
+
+This is the "high end" option that carries with it the full cost of crafting/acquiring high-quality endgame crafting gear. The advantage is that this set can be fully overmelded, if you're willing to devote that amount of resources into crafting.
+
+**BEWARE: THIS IS INCREDIBLY EXPENSIVE**. A fully overmelded crafting set can easily cost you MILLIONS of gil in materia alone.
+
+If you WANT to do this, the current BiS materia meld is provided below. If you're not sure if you want to do this, please talk to an experienced crafter/melder first. Your gil will thank you.
 
 |Job Level|Set|Item Level|Item|Source|
 |-|-|-|-|-|
@@ -267,77 +256,72 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Integral Ring of Crafting|Crafted|
 ||||Integral Ring of Crafting|Crafted|
 
-#### Notes
-
-- This is the "high end" option that carries with it the full cost of crafting/acquiring high-quality endgame crafting gear. The advantage is that this set can be fully overmelded, if you're willing to devote that amount of resources into crafting. **BEWARE: THIS IS INCREDIBLY EXPENSIVE**. A fully overmelded crafting set can easily cost you MILLIONS of gil in materia alone.
-- If you WANT to do this, the current BiS materia meld is provided below. If you're not sure if you want to do this, please talk to an experienced crafter/melder first. Your gil will thank you.
-
 # Materia Melding
 
 ## BiS Materia Meld (Level 90 High-End Set)
 
 |Item|Materia|Stat|Bonus|
 |-|-|-|-|
-|Pactmaker's Primary Tool|Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia X|Control|18|
-||Craftsman's Cunning Materia VII|CP|7|
-||Craftsman's Command Materia IX|Control|12|
-||Craftsman's Command Materia IX|Control|12|
-|Pactmaker's Secondary Tool|Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia IX|CP|7|
-||Craftsman's Command Materia IX|Control|12|
-||Craftsman's Cunning Materia VII|Control|12|
-|Pactmaker's Turban of Crafting|Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia X|Control|18|
-||Craftsman's Competence Materia X|Craftsmanship|27|
-||Craftsman's Command Materia IX|Control|12|
-||Craftsman's Command Materia IX|Control|12|
-|Pactmaker's Vest of Crafting|Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia X|Control|18|
-||Craftsman's Competence Materia X|Craftsmanship|27|
-||Craftsman's Command Materia IX|Control|12|
-||Craftsman's Command Materia IX|Control|12|
-|Pactmaker's Halfgloves of Crafting|Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia X|Control|18|
-||Craftsman's Competence Materia X|Craftsmanship|27|
-||Craftsman's Command Materia IX|Control|12|
-||Craftsman's Command Materia IX|Control|12|
-|Pactmaker's Sarouel of Crafting|Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia X|Control|18|
-||Craftsman's Cunning Materia X|CP|10|
-||Craftsman's Command Materia IX|Control|12|
-||Craftsman's Command Materia IX|Control|12|
-|Pactmaker's Pumps of Crafting|Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia X|Control|18|
-||Craftsman's Cunning Materia X|CP|10|
-||Craftsman's Command Materia IX|Control|12|
-||Craftsman's Command Materia IX|Control|12|
-|Integral Earrings of Crafting|Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia IX|Control|12|
-||Craftsman's Cunning Materia VII|CP|7|
-||Craftsman's Cunning Materia V|CP|6|
-|Integral Necklace of Crafting|Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia IX|Control|12|
-||Craftsman's Cunning Materia VII|CP|7|
-||Craftsman's Cunning Materia V|CP|6|
-|Integral Bracelet of Crafting|Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia X|Control|18|
-||Craftsman's Command Materia IX|Control|12|
-||Craftsman's Cunning Materia VII|CP|7|
-||Craftsman's Cunning Materia V|CP|6|
-|Integral Ring of Crafting|Craftsman's Command Materia X|Control|18|
-||Craftsman's Competence Materia X|Craftsmanship|27|
-||Craftsman's Competence Materia IX|Craftsmanship|18|
-||Craftsman's Competence Materia IX|Craftsmanship|18|
-||Craftsman's Cunning Materia VII|CP|7|
-|Integral Ring of Crafting|Craftsman's Command Materia X|Control|18|
-||Craftsman's Competence Materia X|Craftsmanship|27|
-||Craftsman's Competence Materia IX|Craftsmanship|18|
-||Craftsman's Competence Materia IX|Craftsmanship|18|
-||Craftsman's Cunning Materia VII|CP|7|
+|Pactmaker's Primary Tool|Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Cunning Materia VII|**CP**|7|
+||Craftsman's Command Materia IX|**Control**|12|
+||Craftsman's Command Materia IX|**Control**|12|
+|Pactmaker's Secondary Tool|Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia IX|**CP**|7|
+||Craftsman's Command Materia IX|**Control**|12|
+||Craftsman's Cunning Materia VII|**Control**|12|
+|Pactmaker's Turban of Crafting|Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Competence Materia X|**Craftsmanship**|27|
+||Craftsman's Command Materia IX|**Control**|12|
+||Craftsman's Command Materia IX|**Control**|12|
+|Pactmaker's Vest of Crafting|Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Competence Materia X|**Craftsmanship**|27|
+||Craftsman's Command Materia IX|**Control**|12|
+||Craftsman's Command Materia IX|**Control**|12|
+|Pactmaker's Halfgloves of Crafting|Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Competence Materia X|**Craftsmanship**|27|
+||Craftsman's Command Materia IX|**Control**|12|
+||Craftsman's Command Materia IX|**Control**|12|
+|Pactmaker's Sarouel of Crafting|Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Cunning Materia X|**CP**|10|
+||Craftsman's Command Materia IX|**Control**|12|
+||Craftsman's Command Materia IX|**Control**|12|
+|Pactmaker's Pumps of Crafting|Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Cunning Materia X|**CP**|10|
+||Craftsman's Command Materia IX|**Control**|12|
+||Craftsman's Command Materia IX|**Control**|12|
+|Integral Earrings of Crafting|Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia IX|**Control**|12|
+||Craftsman's Cunning Materia VII|**CP**|7|
+||Craftsman's Cunning Materia V|**CP**|6|
+|Integral Necklace of Crafting|Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia IX|**Control**|12|
+||Craftsman's Cunning Materia VII|**CP**|7|
+||Craftsman's Cunning Materia V|**CP**|6|
+|Integral Bracelet of Crafting|Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Command Materia IX|**Control**|12|
+||Craftsman's Cunning Materia VII|**CP**|7|
+||Craftsman's Cunning Materia V|**CP**|6|
+|Integral Ring of Crafting|Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Competence Materia X|**Craftsmanship**|27|
+||Craftsman's Competence Materia IX|**Craftsmanship**|18|
+||Craftsman's Competence Materia IX|**Craftsmanship**|18|
+||Craftsman's Cunning Materia VII|**CP**|7|
+|Integral Ring of Crafting|Craftsman's Command Materia X|**Control**|18|
+||Craftsman's Competence Materia X|**Craftsmanship**|27|
+||Craftsman's Competence Materia IX|**Craftsmanship**|18|
+||Craftsman's Competence Materia IX|**Craftsmanship**|18|
+||Craftsman's Cunning Materia VII|**CP**|7|
 
 # Crafting Rotations
 

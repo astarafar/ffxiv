@@ -1,10 +1,8 @@
-# Final Fantasy XIV - Crafting and Gathering Information
-
-## Introduction
+# Final Fantasy XIV: A Realm Reborn - Crafting and Gathering Resources
 
 I put a lot of effort into leveling every crafting and gathering job in the game to their maximum, and then went ahead and melded my crafting and gathering sets to their **absolute** maximum because I'm a masochist. I hope to save people a lot of time and gil by documenting what I learned along the way. This will include gear sets, locations and unlock steps for collectable appraisers and scrip exchanges, crafting rotations for collectables at every level, and more.
 
-## Leveling Jobs
+# Leveling Jobs
 
 There are a number of ways to level crafting and gathering jobs in the game.
 
@@ -12,11 +10,11 @@ Between levels 1 and 50, you'll be spending your time primarily focused on job q
 
 Once you reach level 50, the fun begins. You'll unlock collectables. I found that they're the best way to level crafting and gathering jobs, and that's where this document comes in. Eventually, I want to cover the lower levels as well, but this is where I started.
 
-## Unlocking Collectable Appraisers
+# Unlocking Collectable Appraisers
 
 When you reach level 50 and complete the Heavensward main story quest "The Better Half," you'll be able to take and complete the quest "Inscrutable Tastes." That unlocks collectables for all crafting and gathering jobs, up to level 56. You'll have to complete additional quests to unlock each additional tier of collectables.
 
-### Collectable Appraisers
+## Collectable Appraisers
 
 |Zone|Location|Unlock Quest|Quest Giver|Requirements|
 |-|-|-|-|-|
@@ -29,7 +27,7 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 |Eulmore|Eulmore Aetheryte Plaza<br />X: 11.7, Y: 10.9|The Boutique Always Wins|Mowen<br />Eulmore - The Canopy<br />X: 11.5, Y: 10.7|MSQ: City of Final Pleasures<br /><br />Quest: Go West, Craftsman<br /><br />Job: DoH/DoL Level 70|
 |Radz-at-Han|East Balshahn Bazaar<br />X: 11.7, Y: 9.9|Expanding House of Splendors|Ofpilona<br />Radz-at-Han - East Balshahn Bazaar<br />X: 11.7, Y: 9.6|Quest: Go West, Craftsman<br /><br />Job: DoH/DoL Level 80|
 
-### Scrip Exchanges
+## Scrip Exchanges
 
 |Zone|Location|
 |-|-|
@@ -48,11 +46,11 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 |Radz-at-Han|East Balshahn Bazaar<br />X: 11.6, Y: 9.5|
 |Old Sharlayan|Searchers' Meet<br />X: 5.0, Y: 9.4|
 
-## Gear Sets
+# Gear Sets
 
-### Level 50
+## Level 50
 
-##### Stats
+#### Stats
 
 * Craftsmanship: 357
 * Control: 367
@@ -73,14 +71,14 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 |47||47|Electrum Ring of Crafting|3840 gil|
 |47||47|Electrum Ring of Crafting|3840 gil|
 
-##### Notes
+#### Notes
 
 - The Electrum accessories can be purchased from Seghuie in Ishgard, located in The Pillars, X: 7.4, Y: 10.3.
 - Crafting harder things with this gear (collectables at level 56 and 58) gets a bit rough. If you augment with food (Tsai tou Vounou HQ), you can maximize collectability at that level, if the cost of the food is worth it to you. I didn't provide a rotation for this.
 
-### Level 58
+## Level 58
 
-##### Stats
+#### Stats
 
 - Craftsmanship: 417
 - Control: 477
@@ -99,16 +97,16 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Hallowed Chestnut Ring|Crafted|
 ||||Hallowed Chestnut Ring|Crafted|
 
-##### Notes
+#### Notes
 
 - I've listed the accessories here only for the sake of completeness. I recommend using the Electrum accessories from the level 50 set above until you hit level 60.
 - Continue using your primary and secondary tools from the level 50 set.
 
-### Level 60
+## Level 60
 
-#### Recommended
+### Recommended
 
-##### Stats
+#### Stats
 
 - Craftsmanship: 943
 - Control: 843
@@ -129,14 +127,14 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Augmented Handmaster's Ring|50 White Crafter's Scrips|
 ||||Augmented Handmaster's Ring|50 White Crafter's Scrips|
 
-##### Notes
+#### Notes
 
 - The Keep's Sets are job-specific; you will require a new armor set for each crafting job you're leveling.
 - The Handmaster's Set (accessories) are not job-specific, and can be used across all crafting jobs.
 
-#### Alternate
+### Alternate
 
-##### Stats
+#### Stats
 
 - Craftsmanship: 900
 - Control: 813
@@ -155,15 +153,15 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Ironworks Ring of Crafting|Crafted|
 ||||Ironworks Ring of Crafting|Crafted|
 
-##### Notes
+#### Notes
 
 - This set (armor and accessories) is usable by all crafting jobs, but it's a crafted set and therefore far more expensive than the Keep's/Handmaster's Sets, and for worse stats. I do not recommend going this route due to the cost.
 - No matter which armor set you go with, there is absolutely no reason to ever use the accessories from this set. For a universal set at level 60, get the Ironworks Armor and the Handmaster's Accessories.
 - No matter which route you go at this level, use the primary and secondary tools from the Keep's set.
 
-### Level 70
+## Level 70
 
-##### Stats
+#### Stats
 
 - Craftsmanship: 1645
 - Control: 1532
@@ -184,13 +182,13 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Handking's Ring|50 White Crafter's Scrips|
 ||||Handking's Ring|50 White Crafter's Scrips|
 
-##### Notes
+#### Notes
 
 - Aside from the tools, the Handking's armor and accessories are usable by all crafting jobs, so you'll only need to buy the set once.
 
-### Level 80
+## Level 80
 
-##### Stats
+#### Stats
 
 - Craftsmanship: 2606
 - Control: 2457
@@ -211,15 +209,15 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Handsaint's Ring|75 White Crafter's Scrips|
 ||||Handsaint's Ring|75 White Crafter's Scrips|
 
-##### Notes
+#### Notes
 
 - Aside from the tools, the Handsaint's armor and accessories are usable by all crafting jobs, so you'll only need to buy the set once.
 
-### Level 90
+## Level 90
 
-#### Normal Set
+### Normal Set
 
-##### Stats
+#### Stats
 
 - Craftsmanship: 3291
 - Control: 3037
@@ -240,13 +238,13 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Integral Ring of Crafting|Crafted|
 ||||Integral Ring of Crafting|Crafted|
 
-##### Notes
+#### Notes
 
 - This is a very solid option that will let you craft most things with excellent results. It may not meet the craftsmanship and/or control requirements for some of the top-tier items, though you may be able to overcome this by melding/overmelding the Pactmaker's and AR-Caean pieces.
 
-#### High-End Set
+### High-End Set
 
-##### Stats
+#### Stats
 
 ||Without BiS Meld|With BiS Meld|
 |-|-|-|
@@ -269,14 +267,14 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||||Integral Ring of Crafting|Crafted|
 ||||Integral Ring of Crafting|Crafted|
 
-##### Notes
+#### Notes
 
 - This is the "high end" option that carries with it the full cost of crafting/acquiring high-quality endgame crafting gear. The advantage is that this set can be fully overmelded, if you're willing to devote that amount of resources into crafting. **BEWARE: THIS IS INCREDIBLY EXPENSIVE**. A fully overmelded crafting set can easily cost you MILLIONS of gil in materia alone.
 - If you WANT to do this, the current BiS materia meld is provided below. If you're not sure if you want to do this, please talk to an experienced crafter/melder first. Your gil will thank you.
 
-## Materia Melding
+# Materia Melding
 
-### BiS Materia Meld (Level 90 High-End Set)
+## BiS Materia Meld (Level 90 High-End Set)
 
 |Item|Materia|Stat|Bonus|
 |-|-|-|-|
@@ -340,3 +338,11 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||Craftsman's Competence Materia IX|Craftsmanship|18|
 ||Craftsman's Competence Materia IX|Craftsmanship|18|
 ||Craftsman's Cunning Materia VII|CP|7|
+
+# To Do
+
+There's a lot I'm still working on adding to this page. In no particular order:
+
+- The best (by some approximation) levequests to get you from level 1 to level 50 in a given crafting job.
+- Import the collectable crafting rotations that I have in the original document that I wrote.
+- A lot of other stuff.

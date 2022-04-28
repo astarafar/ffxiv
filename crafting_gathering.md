@@ -556,7 +556,7 @@ Macro:
 |-|-|-|
 |Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 980<br />Quality: 3420<br />Durability: 80|100%|
 
-Macro:
+Macro 1 of 2:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Basic Touch" <wait.3>
@@ -573,7 +573,10 @@ Macro:
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
 /ac "Byregot's Blessing" <wait.3>
+```
 
+Macro 2 of 2:
+```
 /ac "Careful Synthesis" <wait.3>
 ```
 
@@ -753,7 +756,7 @@ Macro:
 |-|-|-|
 |Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 3000<br />Quality: 6700<br />Durability: 80|100%|
 
-Macro:
+Macro 1 of 2:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Innovation" <wait.2>
@@ -770,7 +773,10 @@ Macro:
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
 /ac "Prudent Touch" <wait.3>
+```
 
+Macro 2 of 2:
+```
 /ac "Byregot's Blessing" <wait.3>
 /ac "Careful Synthesis" <wait.3>
 ```
@@ -805,7 +811,7 @@ Macro:
 |-|-|-|
 |Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 3400<br />Quality: 7100<br />Durability: 80|100%|
 
-Macro:
+Macro 1 of 2:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Manipulation" <wait.2>
@@ -822,7 +828,10 @@ Macro:
 /ac "Innovation" <wait.2>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
+```
 
+Macro 2 of 2:
+```
 /ac "Advanced Touch" <wait.3>
 /ac "Byregot's Blessing" <wait.3>
 /ac "Veneration" <wait.2>
@@ -835,7 +844,7 @@ Macro:
 |-|-|-|
 |Craftsmanship: 3291<br />Control: 3037<br />CP: 484|Difficulty: 3500<br />Quality: 7200<br />Durability: 80|100%|
 
-Macro:
+Macro 1 of 2:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Manipulation" <wait.2>
@@ -852,7 +861,10 @@ Macro:
 /ac "Innovation" <wait.2>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
+```
 
+Macro 2 of 2:
+```
 /ac "Advanced Touch" <wait.3>
 /ac "Byregot's Blessing" <wait.3>
 /ac "Groundwork" <wait.3>
@@ -867,4 +879,5 @@ TO DO
 There's a lot I'm still working on adding to this page. In no particular order:
 
 - The best (by some approximation) levequests to get you from level 1 to level 50 in a given crafting job.
+- Import the collectable crafting rotations that I have in the original document that I wrote.
 - A lot of other stuff.

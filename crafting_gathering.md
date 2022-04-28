@@ -347,14 +347,11 @@ If there's a blank line in the middle of the macro, that means that you need to 
 
 ### Level 50
 
-Craftsmanship: 357
-Control: 367
-CP: 294
-Difficulty: 180
-Quality: 2000
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 357<br />Control: 367<br />CP: 294|Difficulty: 180<br />Quality: 2000<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Standard Touch" <wait.3>
 /ac "Innovation" <wait.2>
@@ -393,15 +390,13 @@ Macro:
 
 ### Level 54
 
-Craftsmanship: 357
-Control: 367
-CP: 294
-Difficulty: 340
-Quality: 2280
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
-```\/ac "Muscle Memory" <wait.3>
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 357<br />Control: 367<br />CP: 294|Difficulty: 340<br />Quality: 2280<br />Durability: 80||Maximum
+
+Macro:
+```
+/ac "Muscle Memory" <wait.3>
 /ac "Innovation" <wait.2>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Touch" <wait.3>
@@ -419,14 +414,11 @@ Rotation Macro:
 
 ### Level 56
 
-Craftsmanship: 357
-Control: 367
-CP: 294
-Difficulty: 420
-Quality: 2420
-Durability: 70
-Collectability: 215 / 242 (Tier 2)
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 357<br />Control: 367<br />CP: 294|Difficulty: 420<br />Quality: 2420<br />Durability: 70||215 / 242 (Tier 2)
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Waste Not II" <wait.2>
@@ -446,14 +438,11 @@ Rotation Macro:
 
 ### Level 58
 
-Craftsmanship: 417
-Control: 477
-CP: 283
-Difficulty: 500
-Quality: 2560
-Durability: 70
-Collectability: 213 / 242 (Tier 2)
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 417<br />Control: 477<br />CP: 283|Difficulty: 500<br />Quality: 2560<br />Durability: 70||213 / 242 (Tier 2)
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Waste Not II" <wait.2>
@@ -473,14 +462,11 @@ Rotation Macro:
 
 ### Level 60
 
-Craftsmanship: 943
-Control: 843
-CP: 381
-Difficulty: 580
-Quality: 2700
-Durability: 70
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 580<br />Quality: 2700<br />Durability: 70||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Basic Touch" <wait.3>
@@ -497,14 +483,11 @@ Rotation Macro:
 
 ### Level 62
 
-Craftsmanship: 943
-Control: 843
-CP: 381
-Difficulty: 680
-Quality: 2880
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 680<br />Quality: 2880<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Waste Not II" <wait.2>
@@ -523,14 +506,11 @@ Rotation Macro:
 
 ### Level 64
 
-Craftsmanship: 943
-Control: 843
-CP: 381
-Difficulty: 780
-Quality: 3060
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 780<br />Quality: 3060<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Careful Synthesis" <wait.3>
@@ -549,14 +529,11 @@ Rotation Macro:
 
 ### Level 66
 
-Craftsmanship: 943
-Control: 843
-CP: 381
-Difficulty: 880
-Quality: 3240
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 880<br />Quality: 3240<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Waste Not II" <wait.2>
@@ -575,14 +552,11 @@ Rotation Macro:
 
 ### Level 68
 
-Craftsmanship: 943
-Control: 843
-CP: 381
-Difficulty: 980
-Quality: 3420
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 943<br />Control: 843<br />CP: 381|Difficulty: 980<br />Quality: 3420<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Basic Touch" <wait.3>
@@ -605,14 +579,11 @@ Rotation Macro:
 
 ### Level 70
 
-Craftsmanship: 1645
-Control: 1532
-CP: 400
-Difficulty: 1080
-Quality: 3600
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1080<br />Quality: 3600<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Manipulation" <wait.2>
@@ -630,14 +601,11 @@ Rotation Macro:
 
 ### Level 72
 
-Craftsmanship: 1645
-Control: 1532
-CP: 400
-Difficulty: 1220
-Quality: 3800
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1220<br />Quality: 3800<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Manipulation" <wait.2>
@@ -653,14 +621,11 @@ Rotation Macro:
 
 ### Level 74
 
-Craftsmanship: 1645
-Control: 1532
-CP: 400
-Difficulty: 1360
-Quality: 4000
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1360<br />Quality: 4000<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Waste Not" <wait.2>
 /ac "Preparatory Touch" <wait.3>
@@ -676,14 +641,11 @@ Rotation Macro:
 
 ### Level 76
 
-Craftsmanship: 1645
-Control: 1532
-CP: 400
-Difficulty: 1500
-Quality: 4200
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1500<br />Quality: 4200<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Delicate Synthesis" <wait.3>
@@ -701,14 +663,11 @@ Rotation Macro:
 
 ### Level 78
 
-Craftsmanship: 1645
-Control: 1532
-CP: 400
-Difficulty: 1640
-Quality: 4400
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 1645<br />Control: 1532<br />CP: 400|Difficulty: 1640<br />Quality: 4400<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Observe" <wait.3>
@@ -727,14 +686,11 @@ Rotation Macro:
 
 ### Level 80
 
-Craftsmanship: 2606
-Control: 2457
-CP: 507
-Difficulty: 1780
-Quality: 4600
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 1780<br />Quality: 4600<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Preparatory Touch" <wait.3>
@@ -749,14 +705,11 @@ Rotation Macro:
 
 ### Level 81
 
-Craftsmanship: 2606
-Control: 2457
-CP: 507
-Difficulty: 2000
-Quality: 5200
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 2000<br />Quality: 5200<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Waste Not II" <wait.2>
 /ac "Innovation" <wait.2>
@@ -773,14 +726,11 @@ Rotation Macro:
 
 ### Level 83
 
-Craftsmanship: 2606
-Control: 2457
-CP: 507
-Difficulty: 2600
-Quality: 6200
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 2600<br />Quality: 6200<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Groundwork" <wait.3>
@@ -799,14 +749,11 @@ Rotation Macro:
 
 ### Level 85
 
-Craftsmanship: 2606
-Control: 2457
-CP: 507
-Difficulty: 3000
-Quality: 6700
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 3000<br />Quality: 6700<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Innovation" <wait.2>
@@ -830,14 +777,11 @@ Rotation Macro:
 
 ### Level 87
 
-Craftsmanship: 2606
-Control: 2457
-CP: 507
-Difficulty: 3200
-Quality: 6900
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 3200<br />Quality: 6900<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Prudent Touch" <wait.3>
@@ -857,14 +801,11 @@ Rotation Macro:
 
 ### Level 89
 
-Craftsmanship: 2606
-Control: 2457
-CP: 507
-Difficulty: 3400
-Quality: 7100
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 2606<br />Control: 2457<br />CP: 507|Difficulty: 3400<br />Quality: 7100<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Manipulation" <wait.2>
@@ -890,14 +831,11 @@ Rotation Macro:
 
 ### Level 90
 
-Craftsmanship: 3291
-Control: 3037
-CP: 484
-Difficulty: 3500
-Quality: 7200
-Durability: 80
-Collectability: Maximum
-Rotation Macro:
+|Stats|Recipe|Collectability|
+|-|-|-|
+|Craftsmanship: 3291<br />Control: 3037<br />CP: 484|Difficulty: 3500<br />Quality: 7200<br />Durability: 80||Maximum
+
+Macro:
 ```
 /ac "Muscle Memory" <wait.3>
 /ac "Manipulation" <wait.2>

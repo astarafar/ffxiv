@@ -339,6 +339,16 @@ When you reach level 50 and complete the Heavensward main story quest "The Bette
 ||Craftsman's Competence Materia IX|Craftsmanship|18|
 ||Craftsman's Cunning Materia VII|CP|7|
 
+# Crafting Rotations
+
+## Collectables
+
+TO DO: I already have these made, I just need to translate them into Markdown.
+
+## Firmament Collectables
+
+TO DO
+
 # To Do
 
 There's a lot I'm still working on adding to this page. In no particular order:

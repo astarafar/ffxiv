@@ -917,4 +917,5 @@ There's a lot I'm still working on adding to this page. In no particular order:
 
 - The best (by some approximation) levequests to get you from level 1 to level 50 in a given crafting job.
 - Import the collectable crafting rotations that I have in the original document that I wrote.
+- Inventory of collectables at each level, and a rough estimation of how many are needed for each level.
 - A lot of other stuff.

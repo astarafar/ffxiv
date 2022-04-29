@@ -24,7 +24,7 @@
     + [Level 90](#level-90-1)
   * [Firmament Collectables](#firmament-collectables)
 - [To Do](#to-do)
-
+- [Contributing](#contributing)
 -----
 
 # Final Fantasy XIV: A Realm Reborn - Crafting and Gathering Resources

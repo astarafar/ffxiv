@@ -31,6 +31,20 @@
 
 I put a lot of effort into leveling every crafting and gathering job in the game to their maximum, and then went ahead and melded my crafting and gathering sets to their **absolute** maximum because I'm a masochist. I hope to save people a lot of time and gil by documenting what I learned along the way. This will include gear sets, locations and unlock steps for collectable appraisers and scrip exchanges, crafting rotations for collectables at every level, and more.
 
+# How to Read This
+
+Here are a few tips on how to read this document:
+
+- In tables, repeated values in a column are shown by empty cells. (If there's a better way to show this, open an issue in this repo and let me know.)
+
+- If you see text displayed in `a monospace font like this`, that means it's a single command to enter.
+
+```
+If you see a block of text displayed like this,
+it's the body of an in-game macro that you need to create.
+Each consecutive command will be on its own line.
+```
+
 # Leveling Jobs
 
 There are a number of ways to level crafting and gathering jobs in the game.
@@ -919,3 +933,7 @@ There's a lot I'm still working on adding to this page. In no particular order:
 - Import the collectable crafting rotations that I have in the original document that I wrote.
 - Inventory of collectables at each level, and a rough estimation of how many are needed for each level.
 - A lot of other stuff.
+
+# Contributing
+
+If you see something wrong or just plain stupid in here, open an issue or create a pull request with your corrections, and I'll check it out and verify it. If I can verify it, I'll merge your PR and add you here as a contributor, because you deserve some gratitude for spending your free time to help me out.

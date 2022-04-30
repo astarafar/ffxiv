@@ -372,15 +372,13 @@ If you WANT to do this, the current BiS materia meld is provided below. If you'r
 
 These rotations assume that:
 
-- You are using the gear sets listed on the previous tabs;
-- Your craftsmanship stat exactly equals the value indicated for the craft you're attempting;
-- Your control stat meets or exceeds the value indicated for the craft you're attempting;
-- Your CP stat meets or exceeds the value indicated for the craft you're attempting;
-- You are crafting items with the exact difficulty, quality, and durability parameters listed;
+- You are using one of the gear sets listed in the previous sections;
+- Your stats **exactly** match those indicated for the craft you're attempting;
+- You are crafting collectable items with the exact recipe level, difficulty, quality, and durability parameters listed;
 - You have all abilities available at the level indicated, including those gained by completing job quests;
-- You don't get screwed by having poor condition during a critical touch action; 
+- You don't get screwed by having poor condition during a critical touch action. ☹️
 
-**IMPORTANT**: As stated above, these rotations assume your stats match what's indicated for each specific craft.
+**IMPORTANT**: As stated above, these rotations assume your stats eactly match what's indicated for each specific craft. Even if you're using a gear set from this document, buffs can modify your stats, so always check your stats in your character window to verify that your currently effective stats are correct.
 
 Stat differences can be caused by:
 - FC buffs;
@@ -397,7 +395,7 @@ Stat differences can be caused by:
   - Craftsman's Cunning Materia (CP)
 - Crafting job specializations;
 
-The effects of stats that differ from those indicated are as follows:
+If your stats differ from those specified for the craft you're attempting, you may experience the following effects:
 
 ||Low|High|
 |-|-|-|

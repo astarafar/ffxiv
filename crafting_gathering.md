@@ -14,7 +14,7 @@
     + [Normal Set](#normal-set)
     + [High-End Set](#high-end-set)
 - [Materia Melding](#materia-melding)
-  * [BiS Materia Meld (Level 90 High-End Set)](#bis-materia-meld--level-90-high-end-set-)
+  * [BiS Materia Meld (Level 90 High-End Set)](#bis-materia-meld-level-90-high-end-set)
 - [Crafting Rotations](#crafting-rotations)
   * [Collectables](#collectables)
     + [Level 50-58](#level-50-58)
@@ -373,16 +373,37 @@ If you WANT to do this, the current BiS materia meld is provided below. If you'r
 These rotations assume that:
 
 - You are using the gear sets listed on the previous tabs;
-- Your stats meet or exceed those listed for each craft; 
+- Your craftsmanship stat exactly equals the value indicated for the craft you're attempting;
+- Your control stat meets or exceeds the value indicated for the craft you're attempting;
+- Your CP stat meets or exceeds the value indicated for the craft you're attempting;
 - You are crafting items with the exact difficulty, quality, and durability parameters listed;
 - You have all abilities available at the level indicated, including those gained by completing job quests;
 - You don't get screwed by having poor condition during a critical touch action; 
-- You do not have a specialization in your crafting job. If you do, these rotations will all work, but there may be shorter rotations available to you due to the stat bonus granted by specialization.
 
-These rotations do NOT assume that:
+**IMPORTANT**: As stated above, these rotations assume your stats match what's indicated for each specific craft.
 
-- You have any kind of crafting stat buffs from food, drink, or FC buffs;
-- You are using high-quality materials for your crafts. These rotations are all based on zero initial quality.
+Stat differences can be caused by:
+- FC buffs;
+  - Eat from the Hand I (Craftsmanship +5)
+  - Eat from the Hand II (Craftsmanship +5)
+  - Eat from the Hand III (Craftsmanship +5)
+  - In Control I (Control +5)
+  - In Control II (Control +10)
+  - In Control III (Control +15)
+- Food buffs;
+- Materia;
+  - Craftsman's Competence Materia (Craftsmanship)
+  - Craftsman's Command Materia (Control)
+  - Craftsman's Cunning Materia (CP)
+- Crafting job specializations;
+
+The effects of stats that differ from those indicated are as follows:
+
+||Lower|High|
+|-|-|-|
+|Craftsmanship|You may not be able to make enough progress before running out of durability, causing the craft to fail.|You may accidentally complete the craft before increasing its collectability. While the craft will succeed, the collectability may be too low for an appraiser to accept, which basically equals failure.|
+|Control|You may not be able to increase the quality sufficiently to meet the collectability target indicated. In the worst case, you won't be able to meet the minimum collectability requirement. If the appraiser won't take your crafted collectable, it's the same as a failed craft.|This is okay. You might reach maximum collectability before the rotation is finished, but there are no negative effects.|
+|CP|You may not be able to complete the rotation at all. This typically results in failure to meet progress AND quality requiements, causing the craft to fail.|This is okay. You'll just have more CP left over at the end of the rotation, but there are no negative effects.|
 
 I made these so that you don't need to buy (except for those level 45-49 accessories) or craft any gear or food or meld any materia. Please make sure that I didn't screw any of these up before you use them.
 

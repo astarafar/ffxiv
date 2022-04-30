@@ -399,7 +399,7 @@ Stat differences can be caused by:
 
 The effects of stats that differ from those indicated are as follows:
 
-||Lower|High|
+||Low|High|
 |-|-|-|
 |Craftsmanship|You may not be able to make enough progress before running out of durability, causing the craft to fail.|You may accidentally complete the craft before increasing its collectability. While the craft will succeed, the collectability may be too low for an appraiser to accept, which basically equals failure.|
 |Control|You may not be able to increase the quality sufficiently to meet the collectability target indicated. In the worst case, you won't be able to meet the minimum collectability requirement. If the appraiser won't take your crafted collectable, it's the same as a failed craft.|This is okay. You might reach maximum collectability before the rotation is finished, but there are no negative effects.|
